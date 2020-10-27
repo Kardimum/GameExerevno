@@ -2,5 +2,42 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GOAP",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/40c1ae5f1b284d70bcc863bc98ccf68d"
+		},
+		{
+			"Name": "HorizonUIPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8b94d073d32443b497d4a9e8b1e210f7"
+		},
+		{
+			"Name": "ObjectInspection",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3193610f35bd41e0bd9063dbd8e7ad23"
+		},
+		{
+			"Name": "ParticleText",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0c2d7c278eb645d5b8c3be41e2bc859e"
+		},
+		{
+			"Name": "ProceduralRooms",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4df4f50f7a964700a894fae20e40e9c2"
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "UIWS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/97ef36447df7427ca9b46edf1a438731"
+		}
+	]
 }
