@@ -1496,3 +1496,349 @@ Could not find material nodes in template to connect outputs :
 [2020.10.27-23.41.10:307][844]Cmd: POLY SELECT ADJACENT WALLS
 [2020.10.27-23.41.15:300][421]LogContentBrowser: Verbose: The majority of assets in the view are of type: World
 [2020.10.27-23.41.15:813][478]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.27-23.42.02:946][974]LogTexture: Display: Building textures: Texture2D_396 (BGRA8, 415X415)
+[2020.10.27-23.42.02:958][974]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 415X415)
+[2020.10.27-23.42.02:968][974]LogTexture: Display: Building textures: Texture2D_398 (BGRA8, 415X415)
+[2020.10.27-23.42.03:013][974]LogTexture: Display: Building textures: Texture2D_399 (BGRA8, 415X415)
+[2020.10.27-23.42.03:594][ 43]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 415X415)
+[2020.10.27-23.42.03:605][ 43]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 415X415)
+[2020.10.27-23.42.03:633][ 43]LogTexture: Display: Building textures: Texture2D_402 (BGRA8, 415X415)
+[2020.10.27-23.42.03:667][ 43]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 415X415)
+[2020.10.27-23.42.04:619][150]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 415X415)
+[2020.10.27-23.42.04:629][150]LogTexture: Display: Building textures: Texture2D_405 (BGRA8, 415X415)
+[2020.10.27-23.42.04:713][150]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 415X415)
+[2020.10.27-23.42.04:767][150]LogTexture: Display: Building textures: Texture2D_407 (BGRA8, 415X415)
+[2020.10.27-23.42.06:014][299]LogTexture: Display: Building textures: Texture2D_408 (BGRA8, 415X415)
+[2020.10.27-23.42.06:042][299]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 415X415)
+[2020.10.27-23.42.06:089][299]LogTexture: Display: Building textures: Texture2D_410 (BGRA8, 415X415)
+[2020.10.27-23.42.06:098][299]LogTexture: Display: Building textures: Texture2D_411 (BGRA8, 415X415)
+[2020.10.27-23.42.10:801][857]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 1920X1080)
+[2020.10.27-23.42.10:911][858]LogTexture: Display: Building textures: Texture2D_413 (BGRA8, 1920X1080)
+[2020.10.27-23.42.11:892][971]LogSubstanceSource: Refresh Login Successful
+[2020.10.27-23.42.12:833][ 80]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Substance/slate_rockery.sbsar)
+[2020.10.27-23.42.13:905][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_diffuse (AutoDXT, 1024X1024)
+[2020.10.27-23.42.14:284][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_basecolor (AutoDXT, 1024X1024)
+[2020.10.27-23.42.14:662][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_normal (BC5, 1024X1024)
+[2020.10.27-23.42.14:712][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_specular (AutoDXT, 1024X1024)
+[2020.10.27-23.42.14:755][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_glossiness (G8, 1024X1024)
+[2020.10.27-23.42.14:811][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_roughness (G8, 1024X1024)
+[2020.10.27-23.42.14:821][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_metallic (G8, 1024X1024)
+[2020.10.27-23.42.14:832][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_height (G8, 1024X1024)
+[2020.10.27-23.42.14:843][ 80]LogTexture: Display: Building textures: Slate_Rockery_INST_ambientocclusion (G8, 1024X1024)
+[2020.10.27-23.42.14:855][ 80]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.42.14:864][ 80]LogSubstanceCore: Warning: Import Warning- pkg://slate_rockery
+Could not find material nodes in template to connect outputs :
+ - basecolor
+ - specular
+ - glossiness
+ - height
+[2020.10.27-23.42.14:870][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.27-23.42.14:870][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.27-23.42.14:871][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.27-23.42.14:871][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.27-23.42.14:924][ 80]LogContentBrowser: Verbose: The majority of assets in the view are of type: Texture2D
+[2020.10.27-23.42.14:965][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.27-23.42.15:265][ 81]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Materials/Slate_Rockery_INST_basecolor.Slate_Rockery_INST_basecolor
+	Asset Name: /Game/Materials/Slate_Rockery_INST_specular.Slate_Rockery_INST_specular
+	Asset Name: /Game/Materials/Slate_Rockery_INST_glossiness.Slate_Rockery_INST_glossiness
+	Asset Name: /Game/Materials/Slate_Rockery_INST_height.Slate_Rockery_INST_height
+[2020.10.27-23.42.15:825][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.27-23.42.23:718][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Slate/slate_rockery" FILE="../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/slate_rockery.uasset" SILENT=true
+[2020.10.27-23.42.23:728][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/slate_rockeryE8B4FA3F44EB3400E3AFD6BAAFFC879D.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/slate_rockery.uasset'
+[2020.10.27-23.42.23:773][882]LogTexture: Display: Building textures: Slate_Rockery_INST_diffuse (AutoDXT, 1024X1024)
+[2020.10.27-23.42.24:216][882]LogTexture: Display: Building textures: Slate_Rockery_INST_normal (BC5, 1024X1024)
+[2020.10.27-23.42.24:292][882]LogTexture: Display: Building textures: Slate_Rockery_INST_roughness (G8, 1024X1024)
+[2020.10.27-23.42.24:302][882]LogTexture: Display: Building textures: Slate_Rockery_INST_metallic (G8, 1024X1024)
+[2020.10.27-23.42.24:313][882]LogTexture: Display: Building textures: Slate_Rockery_INST_ambientocclusion (G8, 1024X1024)
+[2020.10.27-23.42.24:328][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INSTAB6B638A424CCAB6ABA6EB804635EA33.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST.uasset'
+[2020.10.27-23.42.24:434][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INST_ambientocclus2673B4FF45E722192E75FFBCE792D935.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST_ambientocclusion.uasset'
+[2020.10.27-23.42.24:565][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INST_diffuse724E615C4480DC90B9E295BFB977DF0F.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST_diffuse.uasset'
+[2020.10.27-23.42.24:613][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INST_metallic8E90885C4534E6410716E7AFA4133E8D.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST_metallic.uasset'
+[2020.10.27-23.42.24:760][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INST_normalD959EAA9417598A27F095A88608BF2EB.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST_normal.uasset'
+[2020.10.27-23.42.24:885][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_INST_roughnessA98512524174BA84643AF4AC14D9B45F.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_INST_roughness.uasset'
+[2020.10.27-23.42.24:900][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Slate/Slate_Rockery_MAT" FILE="../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_MAT.uasset" SILENT=true
+[2020.10.27-23.42.24:911][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_MAT2CABA7944699CEFA8F8BE6A236508B0C.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_MAT.uasset'
+[2020.10.27-23.42.24:934][882]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Slate_Rockery_MAT_Template52FAAF5949EC128ED590F88973EE2A4A.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Slate/Slate_Rockery_MAT_Template.uasset'
+[2020.10.27-23.42.25:282][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.27-23.42.25:297][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.10.27-23.42.25:307][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.27-23.42.25:317][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.27-23.42.25:326][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.10.27-23.42.25:335][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.27-23.42.25:345][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.42.25:355][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.27-23.42.25:365][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.27-23.42.25:381][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.27-23.42.25:390][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.27-23.42.25:441][882]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating SubstanceInstanceFactory /Game/Materials/Slate/slate_rockery.slate_rockery
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating SubstanceGraphInstance /Game/Materials/Slate/Slate_Rockery_INST.Slate_Rockery_INST
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Texture2D /Game/Materials/Slate/Slate_Rockery_INST_ambientocclusion.Slate_Rockery_INST_ambientocclusion
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Texture2D /Game/Materials/Slate/Slate_Rockery_INST_diffuse.Slate_Rockery_INST_diffuse
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Texture2D /Game/Materials/Slate/Slate_Rockery_INST_metallic.Slate_Rockery_INST_metallic
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Texture2D /Game/Materials/Slate/Slate_Rockery_INST_normal.Slate_Rockery_INST_normal
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Texture2D /Game/Materials/Slate/Slate_Rockery_INST_roughness.Slate_Rockery_INST_roughness
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Slate/Slate_Rockery_MAT.Slate_Rockery_MAT
+[2020.10.27-23.42.25:441][882]LogContentValidation: Display: Validating Material /Game/Materials/Slate/Slate_Rockery_MAT_Template.Slate_Rockery_MAT_Template
+[2020.10.27-23.42.26:745][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh3)
+[2020.10.27-23.42.39:477][171]Cmd: SELECT NONE
+[2020.10.27-23.42.55:219][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh3)
+[2020.10.27-23.43.03:505][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.10.27-23.43.06:719][152]LogMaterial: Display: Material /Game/Materials/Slate/Slate_Rockery_MAT_Template.Slate_Rockery_MAT_Template needed to have new flag set bUsedWithStaticLighting !
+[2020.10.27-23.43.06:753][152]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.06:780][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.10.27-23.43.06:780][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.27-23.43.06:780][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.10.27-23.43.06:780][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.27-23.43.13:275][817]Cmd: TRANSACTION UNDO
+[2020.10.27-23.43.13:275][817]LogEditorTransaction: Undo Replace component used material
+[2020.10.27-23.43.15:134][975]Cmd: SELECT NONE
+[2020.10.27-23.43.16:725][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh3)
+[2020.10.27-23.43.17:513][207]Cmd: DELETE
+[2020.10.27-23.43.17:513][207]Cmd: ACTOR DELETE
+[2020.10.27-23.43.17:716][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-23.43.17:725][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.27-23.43.17:735][207]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.10.27-23.43.22:681][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.24:828][682]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.27-23.43.25:055][682]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_MAT.Slate_Rockery_MAT
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_MAT_Template.Slate_Rockery_MAT_Template
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST_ambientocclusion.Slate_Rockery_INST_ambientocclusion
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST_metallic.Slate_Rockery_INST_metallic
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST_roughness.Slate_Rockery_INST_roughness
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST_normal.Slate_Rockery_INST_normal
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST_diffuse.Slate_Rockery_INST_diffuse
+	Asset Name: /Game/Materials/Slate/Slate_Rockery_INST.Slate_Rockery_INST
+	Asset Name: /Game/Materials/Slate/slate_rockery.slate_rockery
+[2020.10.27-23.43.25:197][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:253][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:253][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:254][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:254][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:255][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:256][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:256][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:256][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:257][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:258][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:258][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:259][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:259][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:259][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:261][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:261][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:261][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:262][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:263][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:263][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:264][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:264][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:264][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:265][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:266][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:266][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:267][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:267][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:267][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:268][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:269][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:269][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:270][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:270][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:270][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:271][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:272][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:272][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:273][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:273][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:273][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:274][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:275][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:275][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:276][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:277][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:277][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:278][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:279][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:279][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:280][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:280][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:280][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:281][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:282][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:282][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:283][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:283][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:283][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:284][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:285][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:285][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:286][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:286][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:286][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:287][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:287][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:287][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:288][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:289][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:289][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:290][682]LogMaterial: Display: Missing cached shader map for material Slate_Rockery_MAT_Template, compiling. 
+[2020.10.27-23.43.25:290][682]LogMaterial: Warning: C:\Users\legom\Documents\Unreal Projects\Exerevno\Content\Materials\Slate\Slate_Rockery_MAT_Template.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-23.43.25:290][682]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.10.27-23.43.25:881][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.27-23.43.25:895][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:904][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:914][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.27-23.43.25:923][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:934][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:944][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.27-23.43.25:953][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:963][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.43.25:973][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.27-23.43.25:983][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.27-23.43.26:007][682]LogContentBrowser: Verbose: The majority of assets in the view are of type: StaticMesh
+[2020.10.27-23.43.27:367][824]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.27-23.44.02:888][633]LogTexture: Display: Building textures: Texture2D_414 (BGRA8, 415X415)
+[2020.10.27-23.44.02:897][633]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 415X415)
+[2020.10.27-23.44.02:906][633]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 415X415)
+[2020.10.27-23.44.02:956][633]LogTexture: Display: Building textures: Texture2D_417 (BGRA8, 415X415)
+[2020.10.27-23.44.05:554][942]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 415X415)
+[2020.10.27-23.44.05:588][942]LogTexture: Display: Building textures: Texture2D_419 (BGRA8, 415X415)
+[2020.10.27-23.44.05:613][942]LogTexture: Display: Building textures: Texture2D_420 (BGRA8, 415X415)
+[2020.10.27-23.44.05:622][942]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 415X415)
+[2020.10.27-23.44.07:103][115]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 415X415)
+[2020.10.27-23.44.07:113][115]LogTexture: Display: Building textures: Texture2D_423 (BGRA8, 415X415)
+[2020.10.27-23.44.07:124][115]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 415X415)
+[2020.10.27-23.44.07:135][115]LogTexture: Display: Building textures: Texture2D_425 (BGRA8, 415X415)
+[2020.10.27-23.44.07:625][171]LogTexture: Display: Building textures: Texture2D_426 (BGRA8, 415X415)
+[2020.10.27-23.44.07:635][171]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 415X415)
+[2020.10.27-23.44.07:644][171]LogTexture: Display: Building textures: Texture2D_428 (BGRA8, 415X415)
+[2020.10.27-23.44.07:693][171]LogTexture: Display: Building textures: Texture2D_429 (BGRA8, 415X415)
+[2020.10.27-23.44.07:706][172]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 415X415)
+[2020.10.27-23.44.07:718][172]LogTexture: Display: Building textures: Texture2D_431 (BGRA8, 415X415)
+[2020.10.27-23.44.07:728][172]LogTexture: Display: Building textures: Texture2D_432 (BGRA8, 415X415)
+[2020.10.27-23.44.07:756][172]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 415X415)
+[2020.10.27-23.44.08:265][227]LogTexture: Display: Building textures: Texture2D_434 (BGRA8, 415X415)
+[2020.10.27-23.44.08:277][227]LogTexture: Display: Building textures: Texture2D_435 (BGRA8, 415X415)
+[2020.10.27-23.44.08:335][227]LogTexture: Display: Building textures: Texture2D_436 (BGRA8, 415X415)
+[2020.10.27-23.44.08:349][227]LogTexture: Display: Building textures: Texture2D_437 (BGRA8, 415X415)
+[2020.10.27-23.44.09:414][354]LogTexture: Display: Building textures: Texture2D_438 (BGRA8, 415X415)
+[2020.10.27-23.44.09:425][354]LogTexture: Display: Building textures: Texture2D_439 (BGRA8, 415X415)
+[2020.10.27-23.44.09:435][354]LogTexture: Display: Building textures: Texture2D_440 (BGRA8, 415X415)
+[2020.10.27-23.44.09:446][354]LogTexture: Display: Building textures: Texture2D_441 (BGRA8, 415X415)
+[2020.10.27-23.44.23:378][ 25]LogTexture: Display: Building textures: Texture2D_442 (BGRA8, 415X415)
+[2020.10.27-23.44.23:441][ 25]LogTexture: Display: Building textures: Texture2D_443 (BGRA8, 415X415)
+[2020.10.27-23.44.23:545][ 25]LogTexture: Display: Building textures: Texture2D_444 (BGRA8, 415X415)
+[2020.10.27-23.44.23:584][ 25]LogTexture: Display: Building textures: Texture2D_445 (BGRA8, 415X415)
+[2020.10.27-23.44.23:903][ 58]LogTexture: Display: Building textures: Texture2D_446 (BGRA8, 415X415)
+[2020.10.27-23.44.23:915][ 58]LogTexture: Display: Building textures: Texture2D_447 (BGRA8, 415X415)
+[2020.10.27-23.44.23:925][ 58]LogTexture: Display: Building textures: Texture2D_448 (BGRA8, 415X415)
+[2020.10.27-23.44.23:971][ 58]LogTexture: Display: Building textures: Texture2D_449 (BGRA8, 415X415)
+[2020.10.27-23.44.25:175][202]LogTexture: Display: Building textures: Texture2D_450 (BGRA8, 415X415)
+[2020.10.27-23.44.25:185][202]LogTexture: Display: Building textures: Texture2D_451 (BGRA8, 415X415)
+[2020.10.27-23.44.25:217][202]LogTexture: Display: Building textures: Texture2D_452 (BGRA8, 415X415)
+[2020.10.27-23.44.25:227][202]LogTexture: Display: Building textures: Texture2D_453 (BGRA8, 415X415)
+[2020.10.27-23.44.27:591][485]LogTexture: Display: Building textures: Texture2D_454 (BGRA8, 415X415)
+[2020.10.27-23.44.27:652][485]LogTexture: Display: Building textures: Texture2D_455 (BGRA8, 415X415)
+[2020.10.27-23.44.27:664][485]LogTexture: Display: Building textures: Texture2D_456 (BGRA8, 415X415)
+[2020.10.27-23.44.27:674][485]LogTexture: Display: Building textures: Texture2D_457 (BGRA8, 415X415)
+[2020.10.27-23.44.35:583][435]LogSubstanceSource: Refresh Login Successful
+[2020.10.27-23.44.36:508][542]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Substance/stylized_cobblestone_pavement.sbsar)
+[2020.10.27-23.44.38:512][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_diffuse (AutoDXT, 1024X1024)
+[2020.10.27-23.44.38:744][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_basecolor (AutoDXT, 1024X1024)
+[2020.10.27-23.44.38:997][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_normal (BC5, 1024X1024)
+[2020.10.27-23.44.39:035][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_specular (AutoDXT, 1024X1024)
+[2020.10.27-23.44.39:061][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_glossiness (G8, 1024X1024)
+[2020.10.27-23.44.39:072][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_roughness (G8, 1024X1024)
+[2020.10.27-23.44.39:083][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_metallic (G8, 1024X1024)
+[2020.10.27-23.44.39:094][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_height (G8, 1024X1024)
+[2020.10.27-23.44.39:104][542]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_ambientocclusion (G8, 1024X1024)
+[2020.10.27-23.44.39:117][542]LogMaterial: Display: Missing cached shader map for material Stylized_Cobblestone_Pavement_MAT_Template, compiling. 
+[2020.10.27-23.44.39:127][542]LogSubstanceCore: Warning: Import Warning- pkg://stylized_cobblestone_pavement
+Could not find material nodes in template to connect outputs :
+ - basecolor
+ - specular
+ - glossiness
+ - height
+[2020.10.27-23.44.39:136][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.27-23.44.39:136][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.27-23.44.39:136][542]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.27-23.44.39:136][542]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.27-23.44.39:196][542]LogContentBrowser: Verbose: The majority of assets in the view are of type: Texture2D
+[2020.10.27-23.44.39:244][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.27-23.44.39:412][543]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Materials/Stylized_Cobblestone_Pavement_INST_basecolor.Stylized_Cobblestone_Pavement_INST_basecolor
+	Asset Name: /Game/Materials/Stylized_Cobblestone_Pavement_INST_specular.Stylized_Cobblestone_Pavement_INST_specular
+	Asset Name: /Game/Materials/Stylized_Cobblestone_Pavement_INST_glossiness.Stylized_Cobblestone_Pavement_INST_glossiness
+	Asset Name: /Game/Materials/Stylized_Cobblestone_Pavement_INST_height.Stylized_Cobblestone_Pavement_INST_height
+[2020.10.27-23.44.40:057][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.10.27-23.44.47:969][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_MA4C02E4E14B8E3FECBD2554B731D6B09A.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_MAT_Template.uasset'
+[2020.10.27-23.44.47:978][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/stylized_cobblestone_pavement679413B8461F022B670832AD1B6298C9.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/stylized_cobblestone_pavement.uasset'
+[2020.10.27-23.44.48:033][370]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_diffuse (AutoDXT, 1024X1024)
+[2020.10.27-23.44.48:274][370]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_normal (BC5, 1024X1024)
+[2020.10.27-23.44.48:312][370]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_roughness (G8, 1024X1024)
+[2020.10.27-23.44.48:324][370]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_metallic (G8, 1024X1024)
+[2020.10.27-23.44.48:366][370]LogTexture: Display: Building textures: Stylized_Cobblestone_Pavement_INST_ambientocclusion (G8, 1024X1024)
+[2020.10.27-23.44.48:428][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_IN10A585FA4C0F4848B0ABFCA05E6AA562.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST.uasset'
+[2020.10.27-23.44.48:496][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_IN289BDD054BD03BF0CA528E975F799964.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_ambientocclusion.uasset'
+[2020.10.27-23.44.48:609][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_IN9F504B344107A1AA497750AE785C9F7A.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_diffuse.uasset'
+[2020.10.27-23.44.48:632][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_IN50E56E6D42E085B5C81AAE926A768F7A.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_metallic.uasset'
+[2020.10.27-23.44.48:774][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_IN44DBA821495FC9DA5B552CB4BFE6C215.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_normal.uasset'
+[2020.10.27-23.44.48:800][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_INF5F475E94DE782EA342493846A5E4C31.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_roughness.uasset'
+[2020.10.27-23.44.48:823][370]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Stylized_Cobblestone_Pavement_MAA42AB861472FEA560E59608BAA6D2D63.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Content/Materials/Cobblestone/Stylized_Cobblestone_Pavement_MAT.uasset'
+[2020.10.27-23.44.49:188][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.27-23.44.49:203][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.44.49:212][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.10.27-23.44.49:222][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.44.49:232][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.27-23.44.49:241][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.27-23.44.49:250][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.27-23.44.49:260][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.27-23.44.49:268][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.27-23.44.49:285][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.10.27-23.44.49:294][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.27-23.44.49:349][370]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Material /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_MAT_Template.Stylized_Cobblestone_Pavement_MAT_Template
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating SubstanceInstanceFactory /Game/Materials/Cobblestone/stylized_cobblestone_pavement.stylized_cobblestone_pavement
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating SubstanceGraphInstance /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST.Stylized_Cobblestone_Pavement_INST
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Texture2D /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_ambientocclusion.Stylized_Cobblestone_Pavement_INST_ambientocclusion
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Texture2D /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_diffuse.Stylized_Cobblestone_Pavement_INST_diffuse
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Texture2D /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_metallic.Stylized_Cobblestone_Pavement_INST_metallic
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Texture2D /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_normal.Stylized_Cobblestone_Pavement_INST_normal
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating Texture2D /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_INST_roughness.Stylized_Cobblestone_Pavement_INST_roughness
+[2020.10.27-23.44.49:349][370]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_MAT.Stylized_Cobblestone_Pavement_MAT
+[2020.10.27-23.44.54:276][882]LogActorFactory: Actor Factory created Plane
+[2020.10.27-23.44.54:942][944]LogActorFactory: Actor Factory created Plane
+[2020.10.27-23.44.56:026][ 65]Cmd: SELECT NONE
+[2020.10.27-23.45.00:494][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.27-23.45.07:491][199]Cmd: SELECT NONE
+[2020.10.27-23.45.14:764][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.27-23.45.18:751][434]LogMaterial: Display: Material /Game/Materials/Cobblestone/Stylized_Cobblestone_Pavement_MAT_Template.Stylized_Cobblestone_Pavement_MAT_Template needed to have new flag set bUsedWithStaticLighting !
+[2020.10.27-23.45.18:752][434]LogMaterial: Display: Missing cached shader map for material Stylized_Cobblestone_Pavement_MAT_Template, compiling. 
+[2020.10.27-23.45.18:776][435]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.10.27-23.45.18:776][435]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.27-23.45.18:776][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.10.27-23.45.18:776][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.27-23.45.19:424][485]Cmd: SELECT NONE
+[2020.10.27-23.45.20:517][606]LogFileManager: Warning: Error deleting file: C:/Users/legom/AppData/Local/Temp/UnrealShaderWorkingDir/61D7130F44003B5109FD049404CAAA7E/3/WorkerOutputOnly.out (Error Code 32)
+[2020.10.27-23.45.29:215][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.27-23.45.32:775][996]Cmd: TRANSACTION UNDO
+[2020.10.27-23.45.32:775][996]LogEditorTransaction: Undo Scale Actors
+[2020.10.27-23.45.33:110][  4]Cmd: TRANSACTION UNDO
+[2020.10.27-23.45.33:110][  4]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.27-23.45.33:759][ 65]Cmd: TRANSACTION UNDO
+[2020.10.27-23.45.33:759][ 65]LogEditorTransaction: Undo Select None
+[2020.10.27-23.45.34:273][120]Cmd: TRANSACTION UNDO
+[2020.10.27-23.45.34:273][120]LogEditorTransaction: Undo Replace component used material
+[2020.10.27-23.45.34:923][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.27-23.45.35:597][267]Cmd: DELETE
+[2020.10.27-23.45.35:597][267]Cmd: ACTOR DELETE
+[2020.10.27-23.45.35:598][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-23.45.35:608][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.27-23.45.35:613][267]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.10.27-23.46.24:402][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.27-23.46.24:575][680]LogSavePackage: Moving '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/ThirdPersonExampleMap_Auto192A2CB024ECFA8D3FAD709B313F0A54B.tmp' to '../../../../../../Users/legom/Documents/Unreal Projects/Exerevno/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.10.27-23.46.24:618][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.224
+[2020.10.27-23.46.24:618][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
