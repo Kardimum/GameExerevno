@@ -1479,3 +1479,233 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-20.38.47:379][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2020.10.27-20.38.47:667][472]SourceControl: Error: Updated 0 paths from the index
 [2020.10.27-20.38.47:890][472]SourceControl: rm 'Content/Test.uasset'
+[2020.10.27-20.39.42:052][268]LogRenderer: Reallocating scene render targets to support 1264x500 Format 10 NumSamples 1 (Frame:37713).
+[2020.10.27-20.39.42:138][269]LogRenderer: Reallocating scene render targets to support 1264x512 Format 10 NumSamples 1 (Frame:37715).
+[2020.10.27-20.39.42:293][270]LogRenderer: Reallocating scene render targets to support 1264x516 Format 10 NumSamples 1 (Frame:37717).
+[2020.10.27-20.40.22:222][198]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at -1030.00,341.39,298.73
+[2020.10.27-20.40.23:002][237]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at -2689.31,1129.09,237.75
+[2020.10.27-20.40.46:538][887]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.27-20.40.47:172][913]LogEditorViewport: Clicking on Actor (LMB): ArchVisCharacter (ArchVisCharacter1)
+[2020.10.27-20.40.48:195][960]Cmd: DELETE
+[2020.10.27-20.40.48:195][960]Cmd: ACTOR DELETE
+[2020.10.27-20.40.48:198][960]LogEditorActor: Deleted Actor: ArchVisCharacter
+[2020.10.27-20.40.48:223][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.27-20.40.48:228][960]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.10.27-20.42.32:575][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.27-20.42.44:824][414]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.27-20.42.50:713][669]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2020.10.27-20.43.14:990][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.27-20.43.14:993][ 24]LogMetaData: Removing '/Game/NPC/TestAction.SKEL_TestAction_C' ref from Metadata '/Game/NPC/NPCActio.PackageMetaData'
+[2020.10.27-20.43.14:993][ 24]LogMetaData: Removing '/Game/NPC/TestAction.TestAction_C' ref from Metadata '/Game/NPC/NPCActio.PackageMetaData'
+[2020.10.27-20.43.15:041][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.43.15:051][ 24]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestAction8C7D1E5949015FD52A9698A9BA5D4F64.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.43.15:566][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.27-20.43.15:589][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.27-20.43.15:604][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.27-20.43.15:667][ 24]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.43.15:667][ 24]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.44.51:258][ 25]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.27-20.44.52:214][ 25]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.27-20.44.57:854][273]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.44.58:113][273]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 125 classes and 0 folders.
+[2020.10.27-20.44.59:129][273]LogSlate: Took 0.002038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.27-20.45.00:930][330]LogSlate: Window 'TestAction' being destroyed
+[2020.10.27-20.45.00:943][331]LogRenderer: Reallocating scene render targets to support 2076x820 Format 10 NumSamples 1 (Frame:43295).
+[2020.10.27-20.45.18:277][936]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-20.46.20:036][653]BlueprintLog: New page: Compile TestAction
+[2020.10.27-20.46.20:073][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.10.27-20.46.20:679][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.46.20:693][682]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestAction90649DF7453A89475CD49AA72A524726.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.46.20:706][682]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.46.20:707][682]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.46.37:852][ 21]BlueprintLog: New page: Compile TestAction
+[2020.10.27-20.46.37:879][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.27-20.48.33:261][346]BlueprintLog: New page: Compile TestAction
+[2020.10.27-20.48.33:294][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.27-20.48.33:969][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.48.33:993][379]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestAction60DDB772482034CCBA45EFA14588E202.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.48.34:010][379]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.48.34:010][379]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.48.47:427][671]BlueprintLog: New page: Compile TestAction
+[2020.10.27-20.48.47:455][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.27-20.48.48:702][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.48.48:715][739]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestActionDBF996344C336B9E5831DF82D3311458.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.48.48:731][739]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.48.48:731][739]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.49.09:087][979]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-20.49.13:224][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.27-20.49.13:353][220]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestMap_Auto2071B0AAA4E3D4F1D5B08B289D0771958.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/Autosaves/Game/Maps/TestMap_Auto2.umap'
+[2020.10.27-20.49.13:355][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 0.157
+[2020.10.27-20.49.13:355][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.157
+[2020.10.27-20.49.13:356][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Key] ([1] browsable assets)...
+[2020.10.27-20.49.13:356][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Key]
+[2020.10.27-20.49.13:356][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Key" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/Autosaves/Game/NPC/Key_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.10.27-20.49.13:365][220]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/Key_Auto27A235DB54CBC3C1D5D41D4ABC775F08D.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/Autosaves/Game/NPC/Key_Auto2.uasset'
+[2020.10.27-20.49.13:366][220]LogFileHelpers: Auto-saving content packages took 0.011
+[2020.10.27-20.52.09:616][697]BlueprintLog: New page: Compile TestAction
+[2020.10.27-20.52.09:646][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.27-20.52.10:207][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.52.10:239][724]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestAction70027B9D4DF6022B2F4C29ABEC8C5FD2.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.52.10:255][724]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.52.10:255][724]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.52.52:668][ 49]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.27-20.53.00:578][ 49]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.27-20.53.07:873][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.53.46:793][783]BlueprintLog: New page: Compile GOAPCtrl
+[2020.10.27-20.53.46:851][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.27-20.53.47:334][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/GOAPCtrl" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset" SILENT=true
+[2020.10.27-20.53.47:348][802]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/GOAPCtrl1F9B16544DAF1A0614F93887FE8230FE.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset'
+[2020.10.27-20.53.47:549][802]AssetCheck: New page: Asset Save: GOAPCtrl
+[2020.10.27-20.53.47:549][802]LogContentValidation: Display: Validating Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.54.23:168][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/TestAction" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset" SILENT=true
+[2020.10.27-20.54.23:185][893]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/TestActionF600973C4DA15069ECDDEEBD5C45C3BE.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/TestAction.uasset'
+[2020.10.27-20.54.23:197][893]AssetCheck: New page: Asset Save: TestAction
+[2020.10.27-20.54.23:197][893]LogContentValidation: Display: Validating Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.54.24:674][984]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-20.54.24:674][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-20.54.26:614][ 17]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/TestAction.TestAction
+[2020.10.27-20.54.55:822][419]LogEditorTransaction: Undo Add Child
+[2020.10.27-20.55.16:105][156]BlueprintLog: New page: Compile GOAPCtrl
+[2020.10.27-20.55.16:160][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.27-20.55.16:782][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/GOAPCtrl" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset" SILENT=true
+[2020.10.27-20.55.16:805][184]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/GOAPCtrl02FE95FE47BFE40FEFD554A5161B9298.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset'
+[2020.10.27-20.55.16:818][184]AssetCheck: New page: Asset Save: GOAPCtrl
+[2020.10.27-20.55.16:818][184]LogContentValidation: Display: Validating Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.55.41:886][749]BlueprintLog: New page: Compile GOAPCtrl
+[2020.10.27-20.55.41:944][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.27-20.55.42:749][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/GOAPCtrl" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset" SILENT=true
+[2020.10.27-20.55.42:766][789]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/GOAPCtrl1CEE81E24F63D2F907EA38956E9CA9FC.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset'
+[2020.10.27-20.55.42:779][789]AssetCheck: New page: Asset Save: GOAPCtrl
+[2020.10.27-20.55.42:779][789]LogContentValidation: Display: Validating Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.55.55:789][ 13]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-20.55.58:985][205]BlueprintLog: New page: Compile GOAPCtrl
+[2020.10.27-20.55.59:044][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.10.27-20.55.59:645][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/GOAPCtrl" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset" SILENT=true
+[2020.10.27-20.55.59:659][233]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/GOAPCtrl888CE0FF4893A00425C9078A740BE134.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset'
+[2020.10.27-20.55.59:675][233]AssetCheck: New page: Asset Save: GOAPCtrl
+[2020.10.27-20.55.59:676][233]LogContentValidation: Display: Validating Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.57.00:416][820]BlueprintLog: New page: Compile GOAPCtrl
+[2020.10.27-20.57.00:472][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.10.27-20.57.01:045][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/GOAPCtrl" FILE="../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset" SILENT=true
+[2020.10.27-20.57.01:062][845]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Saved/GOAPCtrl02427AAE4E877F9FD9DEAB8C022507F7.tmp' to '../../../../../../Users/Owner/OneDrive/Documents/Unreal Projects/GameExerevno/Content/NPC/GOAPCtrl.uasset'
+[2020.10.27-20.57.01:079][845]AssetCheck: New page: Asset Save: GOAPCtrl
+[2020.10.27-20.57.01:079][845]LogContentValidation: Display: Validating Blueprint /Game/NPC/GOAPCtrl.GOAPCtrl
+[2020.10.27-20.57.33:766][121]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:290 
+ with error E_OUTOFMEMORY, 
+ Size=469x1638 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     35 = 32768 KB (2D 4096x4096 PF_ShadowDepth) PreShadowCacheDepthZ
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     96 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(1648)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     78 = 13300 KB (2D 2076x820 PF_FloatRGBA RT UAV VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     53 = 13300 KB (2D 2076x820 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     83 = 13300 KB (2D 2076x820 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     87 = 13300 KB (2D 2076x820 PF_FloatRGBA RT VRam) PostProcessMaterial unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     88 = 13300 KB (2D 2076x820 PF_FloatRGBA RT VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     84 = 13300 KB (2D 2076x820 PF_FloatRGBA RT) SeparateTranslucency unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     45 = 13300 KB (2D 2076x820 PF_FloatRGBA UAV) TemporalAA
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     89 = 13300 KB (2D 2076x820 PF_FloatRGBA UAV) TemporalAA unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     26 = 8313 KB (2D 2076x820 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     86 = 8313 KB (2D 2076x820 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     40 = 8313 KB (2D 2076x820 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     71 = 8192 KB (2D 2048x2048 PF_ShadowDepth) ShadowDepthAtlas unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     70 = 8192 KB (2D 2048x2048 PF_ShadowDepth) ShadowDepthAtlas unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     72 = 6650 KB (2D 2076x820 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     85 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     74 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     25 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT VRam) GBufferB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     30 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT VRam) GBufferD unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     73 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT VRam) GBufferE unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     82 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT VRam) ScreenShadowMaskTexture unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     97 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT) HitProxy unused(1888)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     24 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT) LightAttenuation unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     76 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT) SelectionOutlineColor unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     75 = 6650 KB (2D 2076x820 PF_B8G8R8A8 RT) Tonemap unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     79 = 6650 KB (2D 2076x820 PF_G16R16 RT UAV) Velocity unused(1)
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     43 = 4157 KB (2D 1038x410 PF_DepthStencil) SmallDepthZ
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     80 = 3325 KB (2D 1038x410 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     63 = 3325 KB (2D 2076x410 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     77 = 2731 KB (2D 2048x512 PF_R16F UAV VRam) HZBFurthest unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     47 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     49 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     51 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     48 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     50 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     52 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     81 = 1663 KB (2D 1038x410 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     90 = 1663 KB (2D 1038x410 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     31 = 1663 KB (2D 1038x410 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     44 = 1663 KB (2D 2076x820 PF_G8 RT UAV) ScreenSpaceAO
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     37 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     36 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     42 = 1024 KB (Cube[1] 128 PF_FloatRGBA) ReflectionEnvs
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     54 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     55 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     56 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     57 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereInscatter
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     93 = 416 KB (2D 519x205 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     39 = 416 KB (2D 519x205 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     38 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     62 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2020.10.27-20.57.37:074][121]LogConsoleResponse:     61 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     28 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     94 = 105 KB (2D 260x103 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     64 = 105 KB (2D 260x103 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     34 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     33 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     46 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     91 = 28 KB (2D 16x221 PF_FloatRGBA RT UAV VRam) Histogram unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     95 = 27 KB (2D 130x52 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     65 = 27 KB (2D 130x52 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     18 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     19 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     58 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     59 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     20 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     69 = 7 KB (2D 65x26 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     66 = 7 KB (2D 65x26 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     68 = 2 KB (2D 33x13 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     67 = 2 KB (2D 33x13 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     92 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(1) VRamInKB(Start/Size):<NONE>
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     60 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     27 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     29 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     41 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     32 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.10.27-20.57.37:075][121]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.10.27-20.57.37:075][121]LogConsoleResponse: 
+[2020.10.27-20.57.37:075][121]LogConsoleResponse: Pool: 95/319 MB (referenced/allocated)
+[2020.10.27-20.57.37:075][121]Cmd: rhi.DumpMemory
+[2020.10.27-20.57.37:079][121]RHI resource memory (not tracked by our allocator)
+[2020.10.27-20.57.37:079][121]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]        40162554  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]         2497852  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]         2578464  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]        27328500  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]          548940  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]      1163970353  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]       395989519  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]         7422608  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]        15457894  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.27-20.57.37:079][121]1581.368MB total
+[2020.10.27-20.57.37:079][121]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.10.27-20.57.37:079][121]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.10.27-20.57.37:098][121]Log file closed, 10/27/20 16:57:37
