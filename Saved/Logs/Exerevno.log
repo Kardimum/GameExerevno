@@ -1471,3 +1471,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-20.38.07:507][544]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.27-20.38.07:507][544]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
 [2020.10.27-20.38.07:507][544]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.10.27-20.38.40:404][181]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2020.10.27-20.38.46:001][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.10.27-20.38.47:082][472]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.27-20.38.47:338][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.27-20.38.47:365][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.27-20.38.47:379][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.10.27-20.38.47:667][472]SourceControl: Error: Updated 0 paths from the index
+[2020.10.27-20.38.47:890][472]SourceControl: rm 'Content/Test.uasset'
